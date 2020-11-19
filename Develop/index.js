@@ -1,10 +1,13 @@
 const inquirer = require('inquirer');
-const fs = require('fs');
+// const fs = require('fs');
+// const util = require('utils')
+// const generateMarkdown = require('./utils/generateMarkdown');
+// const markdown = require(generateMarkdown);
 
-inquirer
+
 // array of questions for user
-// const questions =
-.prompt ([
+const questions = () =>
+inquirer.prompt ([
     {
         type: 'input',
         message: 'What is the title of your application?',
@@ -53,14 +56,16 @@ inquirer
     },
 ])
 
-.then((data) => {
+// .then((data) => {
+//     console.log(data)
+// });
 
-console.log(data);
+questions()
 
 // function to write README file
-function writeToFile(fileName, data) {
-}
-
+// function writeToFile(filename, data) {
+// }
+// writeToFile()
 // function to initialize program
 function init() {
 
@@ -68,4 +73,3 @@ function init() {
 
 // function call to initialize program
 init();
-});
