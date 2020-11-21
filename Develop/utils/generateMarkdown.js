@@ -1,28 +1,42 @@
-const index = require('../index')
+// const index = require('../index')
 
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ## ${data.description}
+  ====================================================
+
+  ## Description
+  ${data.description}
 
   ## Table of Contents
-  
-  ## ${data.installation}
+  [Installation](#installation)
+  [Usage](#usage)
+  [Contributions](#contributions)
 
-  ## ${data.usage}
 
-  ## ${data.contributions}
+  ## Installation
+  ${data.installation}
 
-  ## ${data.tests}
+  ## Usage
+  ${data.usage}
 
-  ## ${data.license}
+  ## Contributions
+  ${data.contributions}
 
-  ## ${data.github}
+  ## Testing
+  ${data.tests}
 
-  ## ${data.email}
+  ## License
+  ${data.license}
 
-`;
+  ## Github
+  ${data.github}
+
+  ## Email
+  ${data.email}`
+
+
 }
 
 module.exports = generateMarkdown;
