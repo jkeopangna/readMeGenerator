@@ -4,10 +4,10 @@
 function generateMarkdown(data) {
   return ` # ${data.title}
 
-  ====================================================
+  ---
 
   ## Description
-  ---
+
   ${data.description}
 
   ## Goals
@@ -18,13 +18,13 @@ function generateMarkdown(data) {
   ![Preview](../../assets/preview.jpg)
 
   ## Technology Used
-  ---
+
   * Node JS
   * Inquirer
   * Javascript
 
   ## Table of Contents
-  ---
+
   [Installation](#installation)\n
   [Usage](#usage)\n
   [Contributions](#contributions)\n
@@ -54,7 +54,7 @@ function generateMarkdown(data) {
 
   ### Contact For Questions
   ---
-  Github: [${data.github}](https://github.com/jkeopangna/readMeGenerator)
+  Github: [${data.github}](https://github.com/jkeopangna/readMeGenerator)<br>
   Email: [${data.email}](https://gmail.com)`
 
  

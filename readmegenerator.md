@@ -64,7 +64,7 @@ N/A
 
 ---
 
-[![License: MIT]]
+![License: MIT]
 More information for license can be found here:<br>
 [MIT](https://opensource.org/licenses)
 
@@ -72,5 +72,5 @@ More information for license can be found here:<br>
 
 ---
 
-Github: [Jkeopangna](https://github.com/jkeopangna/readMeGenerator)
+Github: [Jkeopangna](https://github.com/jkeopangna/readMeGenerator)<br>
 Email: [Jkeopangna@gmail.com](https://gmail.com)
