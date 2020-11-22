@@ -1,4 +1,4 @@
-# ReadMe Generator
+# README Generator
 
 ---
 
@@ -33,7 +33,7 @@ Open terminal and execute 'node index.js'
 
 ## Usage
 
-ReadMe file generating
+ReadMe file generating.
 
 ## Contributions
 
@@ -45,11 +45,10 @@ N/A
 
 ## License
 
-![License: MIT]<br>
-More information for license can be found here:<br>
-[MIT](https://opensource.org/licenses)
+[![License: BSD](https://img.shields.io/badge/License-BSD-blue.svg)](https://opensource.org/licenses/MIT)<br>
+For more information use the link provided.
 
 ## Contact For Questions
 
 Github: [Jkeopangna](https://github.com/jkeopangna/readMeGenerator)<br>
-Email: [Jkeopangna@gmail.com](https://gmail.com)
+Email: [Jkeopangna@gmail](https://gmail.com)

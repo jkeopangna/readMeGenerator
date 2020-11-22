@@ -42,7 +42,7 @@ inquirer.prompt ([
     {
         type: 'list',
         message: 'Licenses:',
-        choices: ['BSD', 'MIT', 'GPL'],
+        choices: ['BSD', 'MIT', 'ISC'],
         name: 'license'
     },
     {

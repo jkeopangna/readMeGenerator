@@ -15,7 +15,7 @@ function generateMarkdown(data) {
   2. Executing through the terminal provides a series of prompts from objects containing questions that can be edited for personalization
   3. A screenshot and link are provided to preview the application
 
-  ![Preview](../../assets/preview.jpg)
+  ![Preview](assets/preview.jpg)
 
   ## Technology Used
 
@@ -25,35 +25,34 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
-  [Installation](#installation)\n
-  [Usage](#usage)\n
-  [Contributions](#contributions)\n
-  [Description](#description)\n
+  [Installation](#installation)<br>
+  [Usage](#usage)<br>
+  [Contributions](#contributions)<br>
+  [Description](#description)<br>
 
-  ### Installation
-  ---
+  ## Installation
+  
   ${data.installation}
 
-  ### Usage
-  ---
+  ## Usage
+
   ${data.usage}
 
-  ### Contributions
-  ---
+  ## Contributions
+
   ${data.contributions}
 
-  ### Testing
-  ---
+  ## Testing
+
   ${data.tests}
 
-  ### License
-  ---
-  [![License: ${data.license}]]
-  More information for license can be found here:<br>
-  [${data.license}](https://opensource.org/licenses)
+  ## License
+  
+  [![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/MIT)<br>
+  For more information use the link provided.
 
-  ### Contact For Questions
-  ---
+  ## Contact For Questions
+
   Github: [${data.github}](https://github.com/jkeopangna/readMeGenerator)<br>
   Email: [${data.email}](https://gmail.com)`
 
