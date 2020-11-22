@@ -1,10 +1,8 @@
 # ReadMe Generator
 
-====================================================
+---
 
 ## Description
-
----
 
 As a Developer, this readme generator provides a template for markdown files structured to give the user background information regarding the applications development process.
 
@@ -18,59 +16,40 @@ As a Developer, this readme generator provides a template for markdown files str
 
 ## Technology Used
 
----
-
 - Node JS
 - Inquirer
 - Javascript
 
 ## Table of Contents
 
----
+[Installation](#installation)<br>
+[Usage](#usage)<br>
+[Contributions](#contributions)<br>
+[Description](#description)<br>
 
-[Installation](#installation)
-
-[Usage](#usage)
-
-[Contributions](#contributions)
-
-[Description](#description)
-
-### Installation
-
----
+## Installation
 
 Open terminal and execute 'node index.js'
 
-### Usage
-
----
+## Usage
 
 ReadMe file generating
 
-### Contributions
-
----
+## Contributions
 
 Jon Keopangna
 
-### Testing
-
----
+## Testing
 
 N/A
 
-### License
+## License
 
----
-
-![License: MIT]
+![License: MIT]<br>
 More information for license can be found here:<br>
 [MIT](https://opensource.org/licenses)
 
-### Contact For Questions
-
----
+## Contact For Questions
 
 Github: [Jkeopangna](https://github.com/jkeopangna/readMeGenerator)<br>
 Email: [Jkeopangna@gmail.com](https://gmail.com)
