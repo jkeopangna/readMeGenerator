@@ -47,12 +47,12 @@ inquirer.prompt ([
     },
     {
         type: 'input',
-        message: 'Github:',
+        message: 'Github username for questions:',
         name: 'github'
     },
     {
         type: 'input',
-        message: 'Email:',
+        message: 'Email for further questions:',
         name: 'email'
     },
 ])
