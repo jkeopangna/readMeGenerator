@@ -13,7 +13,7 @@ As a Developer, this readme generator provides a template for markdown files str
 3. A screenshot and link are provided to preview the application
 
 ![Preview](assets/preview.jpg)<br>
-![ReadMe Generator](https://drive.google.com/file/d/1Mru4WpKz--b-rbf9ZQMe-SaezxX_ROV7/view)
+[ReadMe Generator](https://drive.google.com/file/d/1Mru4WpKz--b-rbf9ZQMe-SaezxX_ROV7/view)
 
 ## Technology Used
 
