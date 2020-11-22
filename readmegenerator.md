@@ -12,7 +12,8 @@ As a Developer, this readme generator provides a template for markdown files str
 2. Executing through the terminal provides a series of prompts from objects containing questions that can be edited for personalization
 3. A screenshot and link are provided to preview the application
 
-![Preview](assets/preview.jpg)
+![Preview](assets/preview.jpg)<br>
+![ReadMe Generator](https://drive.google.com/file/d/1Mru4WpKz--b-rbf9ZQMe-SaezxX_ROV7/view)
 
 ## Technology Used
 
